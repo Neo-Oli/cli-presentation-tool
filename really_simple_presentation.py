@@ -29,7 +29,6 @@ Stuff like this can be easily added in vim if you call external programs. `:read
         """)
 slides.append("All it needs is the slides and six lines of python")
 slides.append("Infact, I believe it is better than powerpoint.")
-slides.append("I hope you have configured your terminal correctly, or this last one will look weird. It's supposed to have colors.")
 slides.append("Thank you for using KraftaNet.")
 
 clear='\033[2J\033[1;1H'
